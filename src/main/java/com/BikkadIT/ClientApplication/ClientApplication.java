@@ -15,5 +15,9 @@ public class ClientApplication {
 		int sum = s.sum(22, 28);
 		System.out.println(sum);
 	}
+	
+	public String getmsgfirst() {
+		return "Welcome to Bikkad IT ";
+	}
 
 }
